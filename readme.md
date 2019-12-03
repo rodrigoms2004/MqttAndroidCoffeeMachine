@@ -1,6 +1,7 @@
 # Ligando uma cafeteira com Micropython, MQTT e Android
 
-03/12/2019
+
+Anotações do Meetup de 03/12/2019
 
 Placa controladora ligada a um relé para controlar uma placa remotamente. 
 
