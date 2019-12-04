@@ -44,3 +44,5 @@ Broker, send msg to clients {
 [MQTT JS](https://github.com/mqttjs/MQTT.js)
 
 [MQTT Mosquitto Broker](https://mosquitto.org/)
+
+[Free Hivemq Broker](https://www.hivemq.com/public-mqtt-broker/)
