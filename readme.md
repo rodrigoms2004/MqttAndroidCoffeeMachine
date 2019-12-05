@@ -5,6 +5,17 @@ Anotações do Meetup de 03/12/2019
 
 Placa controladora ligada a um relé para controlar uma placa remotamente. 
 
+https://github.com/hussanhijazi/iot-hub
+https://github.com/andrequeiroz2/micropython-coffee
+
+
+### Slides
+
+https://www.slideshare.net/GDGFoz/ligando-uma-cafeteira-com-micropython-mqtt-e-android
+
+
+
+
 
 ### O que é MQTT?
 
@@ -30,6 +41,7 @@ Broker, send msg to clients {
 
   Subscriber, Subscribe a topin in Broker 
 }
+
 
 ### Links úteis
 
